@@ -10,7 +10,7 @@
   // * SCSS Mixin
   @mixin set-bg($color) {
     background-color: $color;
-    color: text-color-picker($color)
+    color: text-color-picker($color);
   }
   
   // * Standard CSS
